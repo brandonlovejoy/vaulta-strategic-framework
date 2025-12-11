@@ -20,15 +20,15 @@ The analysis reflects patterns observed across blockchain networks and tradition
 ## Contents
 
 /EN
-   Vaulta-Strategic-Framework.md
+   [English Version](en/Vaulta-Strategic-Framework-en.md)
    Vaulta-Strategic-Framework.pdf
 
 /ZH
-   Vaulta-战略框架-中文优化版.md
+   [中文版（简体）](zh/Vaulta-Strategic-Framework-zh.md)
    Vaulta-战略框架-中文优化版.pdf
 
 /KR
-   Vaulta-전략-프레임워크-한국어판.md
+   [한국어 버전](kr/Vaulta-Strategic-Framework-kr.md)
    Vaulta-전략-프레임워크-한국어판.pdf
 
 Each edition maintains the same structure and intent while being optimized for clarity and cultural readability within its language community.
