@@ -1,4 +1,5 @@
 # Vaulta: A Strategic Framework for Network Renewal
+*A community-authored Gold Paper*
 
 ## 1. Introduction
 
