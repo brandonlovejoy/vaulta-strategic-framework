@@ -1,4 +1,6 @@
-# vaulta-strategic-framework
+# Vaulta Gold Paper  
+### A Strategic Framework for Network Renewal
+
 A research-driven strategic analysis of adoption, economics, governance, and ecosystem development for the Vaulta network. Includes full English and Chinese editions.
 
 This repository contains a research-driven strategic analysis of adoption, governance, economic stability, and ecosystem development for the Vaulta network.
