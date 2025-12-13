@@ -32,10 +32,10 @@ The Vaulta Gold Paper is designed to:
 - Provide a **clear, evidence-based synthesis** of historical patterns that influence blockchain ecosystem recovery and long-term health.
 - Outline a **strategic, adoption-centered direction** grounded in lessons from Web2, Web3, and global economic history.
 - Offer contributors, block producers, independent developers, and ecosystem partners a **shared analytical foundation** for decision-making.
-- Serve as a **reference framework**, not a directive — supporting distributed governance by providing clarity rather than prescriptions.
+- Serve as a **reference framework**, not a directive; supporting distributed governance by providing clarity rather than prescriptions.
 
 The Gold Paper does not evaluate individuals or organizations.  
-It analyzes *structures, incentives, timing, tools,* and *external demand* — the forces that shape ecosystem outcomes over time.
+It analyzes *structures, incentives, timing, tools,* and *external demand*, the forces that shape ecosystem outcomes over time.
 
 ---
 
@@ -89,7 +89,7 @@ A *Gold Paper* is:
 - **More strategic than a technical specification**  
 - **More grounded than a vision statement**
 
-It marks a **maturation moment** in an ecosystem — a point where clarity, steadiness, and long-term alignment matter more than hype or urgency.
+It marks a **maturation moment** in an ecosystem; a point where clarity, steadiness, and long-term alignment matter more than hype or urgency.
 
 This Gold Paper is offered in that spirit.
 
@@ -118,5 +118,5 @@ This Gold Paper is released under the **Creative Commons Attribution-NonCommerci
 This repository exists to support **shared understanding**.  
 The direction any ecosystem takes is ultimately shaped by its contributors, communities, and partners.
 
-May this Gold Paper serve as a **clear map**, not a mandate —  
+May this Gold Paper serve as a **clear map**, not a mandate; 
 a resource that helps Vaulta move with coherence, respect, and long-term perspective.
