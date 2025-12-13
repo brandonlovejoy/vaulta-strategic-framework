@@ -161,10 +161,10 @@ This suggests that **developer ecosystems tend to outperform raw technical advan
 
 #### Twilio and Notion: Lowering the cost of experimentation
 
-Twilio allowed anyone to test communication workflows instantly with free credits and simple APIs. \
+Twilio allowed anyone to test communication workflows instantly with free credits and simple APIs.
 Notion allowed users to design and share workspaces and templates without engineering resources.
 
-Both platforms significantly reduced the cost of trying new ideas. \
+Both platforms significantly reduced the cost of trying new ideas.
 As the cost of experimentation fell, experimentation turned into usage, and usage turned into organic growth.
 
 ### 4.2 Web3: Blockchains That Recovered Through Real Usage
@@ -223,7 +223,7 @@ Taken together, experience across Web2 and Web3 suggests a consistent pattern:
 - Platforms recover when they become useful.
 - Adoption produces users, integrations, revenue flows, institutional confidence, and long-term relevance.
 
-Adjusting parameters can support this process, but has not been sufficient to replace it. \
+Adjusting parameters can support this process, but has not been sufficient to replace it.
 Recovery has followed usage and external demand.
 
 For Vaulta, this history provides context. The central question is not whether internal spending or parameters can be optimized in isolation, but whether the network can empower builders to create applications and workflows that people and organizations choose to use.
@@ -377,7 +377,7 @@ The ecosystem has evolved from a fragmented and reactive tool environment into a
 
 ### 6.1 WharfKit: A Modern Developer Toolchain
 
-WharfKit represents one of the most significant advances of recent years. \
+WharfKit represents one of the most significant advances of recent years.
 Rather than a single library, it is a modular ecosystem that provides:
 
 - Antelope core utilities,
@@ -457,7 +457,7 @@ These developments expand the potential participation base and improve scalabili
 
 ### 6.7 Spring 1.x and the MIT License
 
-Antelope Spring 1.x is now released under the MIT open-source license. \
+Antelope Spring 1.x is now released under the MIT open-source license.
 This change:
 
 - lowers barriers for experimentation,
@@ -518,13 +518,13 @@ In this context, several principles become essential.
 
 ### 7.1 Distinguishing Ultimate Authority from Operational Authority
 
-**Ultimate authority** remains with the network via the 15-of-21 permission. \
+**Ultimate authority** remains with the network via the 15-of-21 permission.
 This protects against capture and ensures that major decisions remain decentralized.
 
-**Operational authority**, however, must be delegated to identifiable and revocable stewards. \
+**Operational authority**, however, must be delegated to identifiable and revocable stewards.
 Routine execution: establishing legal entities, signing documents, maintaining accounts, managing administrative processes, and coordinating work, cannot rely on a 15-of-21 threshold without creating bottlenecks.
 
-Delegation does not diminish decentralization. \
+Delegation does not diminish decentralization.
 It enables decentralization to function in practice.
 
 A governance model that pairs revocable operational authority with network-level oversight allows the ecosystem to act while maintaining strong safeguards.
@@ -548,7 +548,7 @@ Continuity strengthens trust and allows contributors to build on stable foundati
 
 ### 7.3 Simple, Documented, and Predictable Processes
 
-Predictability is especially important in a multilingual, geographically distributed ecosystem. \
+Predictability is especially important in a multilingual, geographically distributed ecosystem.
 Governance processes should be:
 
 - documented and traceable,
@@ -574,7 +574,7 @@ Reducing gaps in understanding strengthens trust and coordination across the eco
 
 ### 7.5 Avoiding Governance as a Bottleneck
 
-Governance should not become the central activity of the ecosystem. \
+Governance should not become the central activity of the ecosystem.
 Its role is to function as a **thin enabling layer**:
 
 - preserving authority boundaries,
@@ -607,7 +607,7 @@ Governance delivers:
 - accountability,
 - continuity of essential functions.
 
-But it does not directly generate growth. \
+But it does not directly generate growth.
 Growth comes from:
 
 - builders,
@@ -656,7 +656,7 @@ A predictable economic model improves:
 
 ### 8.2 Stewardship of the Staking Pool and Its Intended Role
 
-The staking rewards pool established in 2024 plays a distinct role in the ecosystem. \
+The staking rewards pool established in 2024 plays a distinct role in the ecosystem.
 It was designed as a **finite and predictable mechanism** to:
 
 - encourage long-term participation,
@@ -675,7 +675,7 @@ The following considerations explain why this distinction matters.
 
 ### 8.2.1 Predictability and Trust
 
-The credibility of the staking pool is one of its most important attributes. \
+The credibility of the staking pool is one of its most important attributes.
 If its function shifts or becomes uncertain, participants may struggle to understand:
 
 - the long-term value of staking,
@@ -703,7 +703,7 @@ The staking pool should remain focused on aligning long-term participants.
 
 ### 8.2.3 Participation, Onboarding, and the Unstaking Window
 
-Vaulta’s staking model includes a 21-day waiting period after a user initiates an unstake. \
+Vaulta’s staking model includes a 21-day waiting period after a user initiates an unstake.
 During this period, and until the user explicitly claims. several things remain true:
 
 - the stake remains locked and illiquid,
@@ -733,7 +733,7 @@ During this window:
 - distribution of A can broaden across developers, operators, and long-term holders,
 - TVL can increase in ways that reflect genuine conviction from the ecosystem.
 
-As halving events occur and the pool diminishes, opportunities for new entrants naturally decline. \
+As halving events occur and the pool diminishes, opportunities for new entrants naturally decline.
 Preserving the pool ensures this alignment window functions as intended.
 
 A stable staking pool strengthens confidence and provides a durable mechanism for long-term participation.
@@ -752,7 +752,7 @@ The ecosystem benefits most when:
 
 ### Principle Going Forward
 
-**The staking pool exists to align long-term participants, support onboarding, and reduce circulating supply. \
+**The staking pool exists to align long-term participants, support onboarding, and reduce circulating supply.
  
 It should not be diluted or repurposed as a general funding mechanism.
  
@@ -852,7 +852,7 @@ These markets are large and active. Predictable execution is an immediate advant
 
 ### 10.2 Tokenized Assets and Real-World Financial Instruments
 
-Tokenization is expanding across loyalty systems, commodities, remittances, and structured finance. \
+Tokenization is expanding across loyalty systems, commodities, remittances, and structured finance.
 These applications require deterministic behavior, clear permissions, and auditable governance. Vaulta supports:
 
 - asset issuance frameworks with transparent, shared control,
@@ -940,7 +940,7 @@ Focusing on proven markets has several benefits:
 - progress is measurable,
 - early success builds confidence and attracts contributors.
 
-At the same time, the real potential lies in enabling many attempts. \
+At the same time, the real potential lies in enabling many attempts.
 When friction is low and tools are mature, builders naturally explore ideas that cannot be anticipated in advance.
 
 Vaulta’s role is not to prescribe a single direction.
