@@ -752,7 +752,7 @@ The ecosystem benefits most when:
 
 ### Principle Going Forward
 
-**The staking pool exists to align long-term participants, support onboarding, and reduce circulating supply.
+The staking pool exists to align long-term participants, support onboarding, and reduce circulating supply.
  
 It should not be diluted or repurposed as a general funding mechanism.
  
