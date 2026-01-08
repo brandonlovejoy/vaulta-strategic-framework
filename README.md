@@ -109,7 +109,11 @@ Substantive changes to the analytical content should be proposed via Issues for 
 
 ## 📝 License
 
-This Gold Paper is released under the **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)** license unless otherwise specified.
+This Gold Paper is released under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) license, unless otherwise noted.
+
+You are free to share, copy, redistribute, and adapt this work for non-commercial purposes, provided appropriate attribution is given.
+
+If you believe your intended use may fall outside the scope of “non-commercial,” please contact the author.
 
 ---
 
