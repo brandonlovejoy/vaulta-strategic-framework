@@ -756,7 +756,7 @@ The staking pool exists to align long-term participants, support onboarding, and
  
 It should not be diluted or repurposed as a general funding mechanism.
  
-Funding for ecosystem development should be handled through transparent, rules-based systems.**
+Funding for ecosystem development should be handled through transparent, rules-based systems.
 
 A stable, clearly defined staking pool complements an adoption-first strategy and reinforces long-term trust in the network.
 
